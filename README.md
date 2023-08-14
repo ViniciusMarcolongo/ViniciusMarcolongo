@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+nome+é+Vinicius+Marcolongo;Eu+tenho+21+anos;Sou+Brasileiro+e+moro+em+São+Paulo;Sou+graduado+em+Cienciência+da+computação;Bem+Vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
 
-💡 <p align="center">
+<p align="center">
     Estudante de Ciência da Computação no 8º semestre, tenho melhor conhecimento no momento em HTML, CSS e JavaScript. Estou estudando outras linguagens como React, TypeScript, Node.js e Python Transformando linhas de código em experiências interativas. Sempre em busca de desafios para elevar minhas habilidades. Animado para contribuir e aprender cada vez mais nesse mundo dinâmico da programação.
 </p><br>
 
