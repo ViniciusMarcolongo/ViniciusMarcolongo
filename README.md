@@ -5,6 +5,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/1tweeks)
 
 ![Vinicius Marcolongo GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusMarcolongo&show_icons=true&theme=highcontrast)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMarcolongo&layout=compact)
 ## Tecnologias que uso:
 
