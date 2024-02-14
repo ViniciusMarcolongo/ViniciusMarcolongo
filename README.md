@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+nome+é+Vinicius+Marcolongo;Eu+tenho+21+anos;Sou+Brasileiro+e+moro+em+São+Paulo;Sou+graduado+em+Ciência+da+computação;Bem+Vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+nome+é+Vinicius+Marcolongo;Eu+tenho+22+anos;Sou+Brasileiro+e+moro+em+São+Paulo;Sou+graduado+em+Ciência+da+computação;Bem+Vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-    Graduado em Ciência da Computação, tenho melhor conhecimento no momento em HTML, CSS e JavaScript. Estou estudando outras linguagens como React, TypeScript, Node.js e Python Transformando linhas de código em experiências interativas. Sempre em busca de desafios para elevar minhas habilidades. Animado para contribuir e aprender cada vez mais nesse mundo dinâmico da programação.
+    Graduado em Ciência da Computação, tenho melhor conhecimento no momento em HTML, CSS e JavaScript. Estou estudando outras linguagens como React, TypeScript, Node.js. Transformando linhas de código em experiências interativas. Sempre em busca de desafios para elevar minhas habilidades. Animado para contribuir e aprender cada vez mais nesse mundo dinâmico da programação.
 </p><br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-marcolongo-770539269/)
