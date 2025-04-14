@@ -7,8 +7,6 @@
 </p><br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-marcolongo-770539269/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vini.marcolongo/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/1tweeks)
 
 ![Vinicius Marcolongo GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusMarcolongo&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMarcolongo&layout=compact)
