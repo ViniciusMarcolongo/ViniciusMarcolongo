@@ -8,7 +8,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-marcolongo-770539269/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusMarcolongo)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/ViniciusMarcolongo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 ## Tecnologias que uso:
 
 <div sytle="display: inline_block"><br>
