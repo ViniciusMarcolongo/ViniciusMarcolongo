@@ -75,16 +75,16 @@ I work mainly with:
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusMarcolongo&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusMarcolongo&theme=github-dark&hide_border=true&days=90"/>
 
 ---
 
 # 🐍 Contribution Snake
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake.svg">
-<img alt="snake animation" src="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusMarcolongo/ViniciusMarcolongo/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusMarcolongo/ViniciusMarcolongo/output/github-contribution-grid-snake.svg">
+<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ViniciusMarcolongo/ViniciusMarcolongo/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
