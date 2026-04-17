@@ -75,7 +75,7 @@ I work mainly with:
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusMarcolongo&theme=github-dark&hide_border=true&days=90"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusMarcolongo&theme=github-dark&hide_border=true"/>
 
 ---
 
