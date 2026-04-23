@@ -55,9 +55,9 @@ I work mainly with:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats-rouge-iota-52.vercel.app/api?username=ViniciusMarcolongo&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-rouge-iota-52.vercel.app/api?username=ViniciusMarcolongo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&cache_seconds=21600"/>
 
-<img height="180em" src="https://github-readme-stats-rouge-iota-52.vercel.app/api/top-langs/?username=ViniciusMarcolongo&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-rouge-iota-52.vercel.app/api/top-langs/?username=ViniciusMarcolongo&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=21600"/>
 
 </p>
 
